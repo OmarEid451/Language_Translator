@@ -1,0 +1,13 @@
+C:\Users\mukes\source\repos\Language_TRANSLATOR\bin\Debug\Language_TRANSLATOR.exe.config
+C:\Users\mukes\source\repos\Language_TRANSLATOR\bin\Debug\Language_TRANSLATOR.exe
+C:\Users\mukes\source\repos\Language_TRANSLATOR\bin\Debug\Language_TRANSLATOR.pdb
+C:\Users\mukes\source\repos\Language_TRANSLATOR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mukes\source\repos\Language_TRANSLATOR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.csproj.AssemblyReference.cache
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.Form1.resources
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.Properties.Resources.resources
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.csproj.GenerateResource.cache
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.csproj.CoreCompileInputs.cache
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language.E0380E99.Up2Date
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.exe
+C:\Users\mukes\source\repos\Language_TRANSLATOR\obj\Debug\Language_TRANSLATOR.pdb
